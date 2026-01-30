@@ -10,6 +10,7 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Algorithm
 Implementation of Simple Linear Regression Model for Predicting the Marks Scored
 
+
 Step 1
 
 Start the program.
